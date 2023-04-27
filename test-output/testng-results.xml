@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T19:06:00 BDT" name="Suite" finished-at="2023-04-27T19:09:48 BDT" duration-ms="228272">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T19:06:00 BDT" name="Test" finished-at="2023-04-27T19:09:48 BDT" duration-ms="228272">
+      <class name="webtests.TestExecution">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:06:01 BDT" name="setBrowser" finished-at="2023-04-27T19:06:36 BDT" duration-ms="34981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:06:01 BDT" name="setBrowser" finished-at="2023-04-27T19:06:23 BDT" duration-ms="22298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="testHomePageTitle()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:06:24 BDT" name="testHomePageTitle" finished-at="2023-04-27T19:08:10 BDT" duration-ms="105988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageTitle -->
+        <test-method signature="PurchaseBook()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:06:36 BDT" name="PurchaseBook" finished-at="2023-04-27T19:09:25 BDT" duration-ms="169529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PurchaseBook -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:08:10 BDT" name="quitDriver" finished-at="2023-04-27T19:08:27 BDT" duration-ms="16509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:08:27 BDT" name="setBrowser" finished-at="2023-04-27T19:08:36 BDT" duration-ms="9945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="testHomePageUrl()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:08:36 BDT" name="testHomePageUrl" description="Home Page Loading Test with base URL" finished-at="2023-04-27T19:09:45 BDT" duration-ms="68369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageUrl -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:09:25 BDT" name="quitDriver" finished-at="2023-04-27T19:09:28 BDT" duration-ms="2665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:webtests.TestExecution@72c8e7b]" started-at="2023-04-27T19:09:45 BDT" name="quitDriver" finished-at="2023-04-27T19:09:48 BDT" duration-ms="2960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- webtests.TestExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
